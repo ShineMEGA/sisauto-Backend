@@ -1,0 +1,14 @@
+C:\git\Curso NET ANGULAR\DB\bin\Debug\net8.0\DB.deps.json
+C:\git\Curso NET ANGULAR\DB\bin\Debug\net8.0\DB.runtimeconfig.json
+C:\git\Curso NET ANGULAR\DB\bin\Debug\net8.0\DB.dll
+C:\git\Curso NET ANGULAR\DB\bin\Debug\net8.0\DB.pdb
+C:\git\Curso NET ANGULAR\DB\obj\Debug\net8.0\DB.csproj.AssemblyReference.cache
+C:\git\Curso NET ANGULAR\DB\obj\Debug\net8.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Curso NET ANGULAR\DB\obj\Debug\net8.0\DB.AssemblyInfoInputs.cache
+C:\git\Curso NET ANGULAR\DB\obj\Debug\net8.0\DB.AssemblyInfo.cs
+C:\git\Curso NET ANGULAR\DB\obj\Debug\net8.0\DB.csproj.CoreCompileInputs.cache
+C:\git\Curso NET ANGULAR\DB\obj\Debug\net8.0\DB.dll
+C:\git\Curso NET ANGULAR\DB\obj\Debug\net8.0\refint\DB.dll
+C:\git\Curso NET ANGULAR\DB\obj\Debug\net8.0\DB.pdb
+C:\git\Curso NET ANGULAR\DB\obj\Debug\net8.0\DB.genruntimeconfig.cache
+C:\git\Curso NET ANGULAR\DB\obj\Debug\net8.0\ref\DB.dll

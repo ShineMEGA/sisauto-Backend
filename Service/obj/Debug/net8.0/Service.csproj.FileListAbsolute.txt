@@ -1,0 +1,17 @@
+C:\git\Curso NET ANGULAR\Service\bin\Debug\net8.0\Service.deps.json
+C:\git\Curso NET ANGULAR\Service\bin\Debug\net8.0\Service.dll
+C:\git\Curso NET ANGULAR\Service\bin\Debug\net8.0\Service.pdb
+C:\git\Curso NET ANGULAR\Service\bin\Debug\net8.0\DB.dll
+C:\git\Curso NET ANGULAR\Service\bin\Debug\net8.0\Repository.dll
+C:\git\Curso NET ANGULAR\Service\bin\Debug\net8.0\DB.pdb
+C:\git\Curso NET ANGULAR\Service\bin\Debug\net8.0\Repository.pdb
+C:\git\Curso NET ANGULAR\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\git\Curso NET ANGULAR\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Curso NET ANGULAR\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\git\Curso NET ANGULAR\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\git\Curso NET ANGULAR\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\git\Curso NET ANGULAR\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\git\Curso NET ANGULAR\Service\obj\Debug\net8.0\Service.dll
+C:\git\Curso NET ANGULAR\Service\obj\Debug\net8.0\refint\Service.dll
+C:\git\Curso NET ANGULAR\Service\obj\Debug\net8.0\Service.pdb
+C:\git\Curso NET ANGULAR\Service\obj\Debug\net8.0\ref\Service.dll
