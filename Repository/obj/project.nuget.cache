@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OuHrmPrOR5c=",
+  "dgSpecHash": "Wivw6bp45AA=",
   "success": true,
-  "projectFilePath": "C:\\git\\Curso_NET_ANGULAR\\sisauto\\Repository\\Repository.csproj",
+  "projectFilePath": "C:\\git\\Curso NET ANGULAR\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shine\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.8\\microsoft.aspnetcore.cryptography.internal.8.0.8.nupkg.sha512",
     "C:\\Users\\shine\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.8\\microsoft.aspnetcore.cryptography.keyderivation.8.0.8.nupkg.sha512",
