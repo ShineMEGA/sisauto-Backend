@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DxvUMuxKBRw=",
+  "dgSpecHash": "OZa3L1WXncQ=",
   "success": true,
-  "projectFilePath": "C:\\git\\Curso NET ANGULAR\\SISAUTO\\Presentation.csproj",
+  "projectFilePath": "C:\\git\\Curso_NET_ANGULAR\\sisauto\\SISAUTO\\Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shine\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\shine\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.8\\microsoft.aspnetcore.cryptography.internal.8.0.8.nupkg.sha512",
